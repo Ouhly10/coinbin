@@ -33,4 +33,4 @@ Coinb.in supports a number of key features such as:
 - Fee calculator - https://coinb.in/#fees
 - Transaction rebuild support for RBF and double spending.
 
-Donate to 33tht1bKDgZVxb39MnZsWa8oxHXHvUYE4G to see more development!
+Donate to 33212zxG3j9rFg2CiJDAD9KvWocn6gBv6r to see more development!
